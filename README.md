@@ -100,10 +100,4 @@ Since this is a pure frontend project, no installation or server setup is requir
 
 ---
 
-## 📄 License
-
-© 2024 Vintage Vault. This project is intended for educational purposes.
-
----
-
 *Made with ❤️ for Web Technologies*
